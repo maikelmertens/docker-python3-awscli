@@ -1,0 +1,7 @@
+pip
+awscli
+semver
+argparse
+requests
+jinja2
+tld
